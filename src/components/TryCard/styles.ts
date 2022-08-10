@@ -4,7 +4,6 @@ export const TryCard=styled.div`
   width: 50%;
 `;
 export const TrySection= styled.div`
-
 `;
 export const Title= styled.h1``;
 export const SubTitle= styled.h2``;

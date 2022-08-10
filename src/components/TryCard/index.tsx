@@ -9,7 +9,7 @@ const Component =() =>{
         <Title>¡Probanos!</Title>
         <SubTitle>Nos encantaría mostrarte <br/>como funciona nuestro Sistema</SubTitle>
         <Text>Un asesor especializado te contactará de inmediato para conocer tus necesidades y agendar una demo. 
-          <br/> 
+         <br/>
           Nuestras demos no son estándar. Te mostramos como se adaptan nuestras soluciones a las necesidades de tu negocio.</Text>
       </TrySection>
 
