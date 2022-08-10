@@ -34,5 +34,4 @@ const Component=()=>{
     </AdvantageCard>
   )
 }
-
 export default Component;

@@ -29,4 +29,5 @@ export const Text= styled.p`
   margin: 0px;
   padding: 0px 15px 15px;
   text-align: center;
+
 `;
